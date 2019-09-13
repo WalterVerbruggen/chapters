@@ -110,10 +110,24 @@ The anti-parallel movement of two charges is a special case of system. In the pr
 
 
 
+### Ether is maybe a better approach to explain charges
+
+Variation in ether is the cause of moving charges:
+
+A charge will consume a certain amount of ether, this amount is a constant and for an electron this is q. The slightest variation (reduction) in ether flow will result in a movement in the opposite direction.
+
+ charge consumes ether in all directions, tend to go to the highest ether density.
+
+![vectors](./images/vectors.png)
+
+definitions:
 
 
 
 
 
+
+
+`*is light nothing more than a movement of charge?* => no because the netto charge is not 0. `
 
 

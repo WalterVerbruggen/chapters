@@ -2,14 +2,6 @@
 
 Maybe this can be defined as one of the more elementary elements. 
 
-
-
-
-
-
-
-
-
 ### Electrical current I
 
 Definition as found on the internet:

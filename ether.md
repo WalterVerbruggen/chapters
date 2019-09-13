@@ -85,7 +85,7 @@ When we now implement the current I for each part:
 
 - $F= \mu_0.I_{cs}.I_{ct}$ this seems to be similar to amperes 'law'
 - $F= \mu_0.[(I_{vt} \cdot \vec{r}).I_{vs}-(I_{vs} \cdot \vec{r}).I_{vs} - (I_{vs} \cdot I_{vt}).\vec{r}]$
-- $F= -\mu_0.\frac{q_t}{r}.q_t.a.\vec{r}$ 
+- $F= -\mu_0.\frac{q_s}{r}.q_t.a.\vec{r}$ 
 
 
 current in the direction of the target, multiplied by the source current  $(I_{vt}.\vec{r}).I_{vs}$
@@ -98,12 +98,10 @@ For the acceleration we can modify the formula to fit in the current representat
 
 $F= \mu_0.\frac{q_s}{r}.q_t.\vec{a} = \mu_0.\frac{q_s}{r}.\frac{q_t}{r}.a.r.\vec{r}$   
 
-Together with the formula for the  radial acceleration: $\vec{a} = \frac{2.v^2}{r} \mapsto \vec{a}.r = 2.v^2$ (taking in acount the radius is half the distance r)
+Together with the formula for the  radial acceleration: $a = \frac{2.v^2}{r} \mapsto a.r = 2.v^2$ (taking in acount the radius is half the distance r)
 
 $F= \mu_0.\frac{q_s}{r}.\frac{q_t}{r}.2.v^2 \vec{r}$
 
 $F= \mu_0.2.\frac{v.q_s}{r}.\frac{v.q_t}{r}\vec{r}$
-
-
 
 

@@ -1,15 +1,15 @@
 ## SI system of units
 The **International System of Units** (**SI**, abbreviated from the French is the modern form of the metric system, and is the most widely used system of measurement. It comprises a coherent system of units of measurement built on seven *base units* (ampere, kelvin, second, meter, kilogram, candela).
 
-### Elementry mechanic units
+### Elementary mechanic units
 
-Wouldn't it be nice to reduce this 7 units? An intention was made to express all units in two base units, **meter** and **seconds**. During the elaboration of this work it came clear to me that there are some inconsistencies. The main reason for this research was to find the source of the magnetic constant $\mu_0$ ( which has the value $10^{-7}$). 
+Wouldn't it be nice to reduce this 7 units? An intention was made to express all units in two base units, **meter** and **seconds**. During the elaboration of this work it came clear that there are some inconsistencies. The main reason for this research was to find the source of the magnetic constant $\mu_0$ ( which has the value $10^{-7}$). 
 
-Until now, the kilogram is a physical object which is used to express mass, basically related to the weight of matter. Let's start with the unit of the kilogram. To start it's not common to use a metric prefix as a unit. (one can not say a kilo-kilogram to express 1000 kg). Therefore it's more convenient to start with the gram instead of kilogram. 
+The kilogram is a physical object which is used to express mass, basically related to the weight of matter. Let's start with the unit of the kilogram. To start it's not common to use a metric prefix as a unit. (one can not say a kilo-kilogram to express 1000 kg). Therefore it's more convenient to start with the gram instead of kilogram. 
 
 Each type of matter has a definition of density which is used to convert a volume of matter to an expression of mass.
 
-The gram, 1/1000 of a kilogram, was provisionally defined in 1795 as the mass of one cubic centimeter of water at the melting point of ice.The final kilogram, manufactured as a prototype in 1799 and from which the IPK was derived in 1875, had a mass equal to the mass of 1 $dm^3$ of water at its maximum density, approximately 4 °C.
+The gram, 1/1000 of a kilogram, was provisionally defined in 1795 as the mass of one cubic centimeter of water at the melting point of ice. The final kilogram, manufactured as a prototype in 1799 and from which the IPK was derived in 1875, had a mass equal to the mass of 1 $dm^3$ of water at its maximum density, approximately 4 °C.
 
 All definitions of density of matter are related to this definition. $1 g = 1 cm^3$.
 
@@ -43,9 +43,9 @@ The unit of force in the new system will become $[\frac{m^4}{s^2}]$
 
 This will have its impact on all other units derived from force. **Work** is  the base formula of energy 
 
-The SI unit of work is the **joule**  [J], which is defined as the work expended by a **Force**  of one newton through a displacement of one **meter**. Or in a formula:
+The SI unit of work is the **Joule**  [J], which is defined as the work expended by a **Force**  of one newton through a displacement of one **meter**. Or in a formula:
 
->$W=F.s$ 
+>$W=F.s​$ 
 >$J \rightarrow [Nm] \rightarrow [\frac{m^4}{s^2}.m] \rightarrow [\frac{m^5}{s^2}]$
 >$E_k=\frac{m.v^2}{2} \rightarrow [J] \rightarrow [m^3 (\frac{m}{s})^2] \rightarrow [\frac{m^5}{s^2}]$ 
 
@@ -62,6 +62,8 @@ The start of the use of electrical units can be found in the 19e century. All un
 
 As base for this conversion the **cgs system** (centimeter gram second) was used. The history of this system goes back to 1831 but since the international adoption of the MKS standard in the 1940s and the SI standard in the 1960s, the technical use of CGS units has gradually declined worldwide. 
 
+The unit of resistance in the C.G.S. magnetic system was so small (one-billionth of an ohm) that it was considered unfit for practical use and a unit $10^9$ times greater than the C.G.S. unit was selected as of convenient magnitude. This decision was made by the B.A. in 1861.
+
 An intention was made to convert all SI-units to their corresponding ms-units. The electric constant $k_e$ is used to define the relation 
 
 >  $k_e = k_m.c^2 = 10^{-7}.8.9875243264e^{16} [\frac{m^2}{s^2}] = 8987524326.4 [\frac{m^2}{s^2}]$
@@ -72,19 +74,19 @@ An intention was made to convert all SI-units to their corresponding ms-units. T
 
 
 
-| description                |        SI-unit         |            ms-unit             | remarks                   |
-| -------------------------- | :--------------------: | :----------------------------: | ------------------------- |
-| Force  ($F=m.a$)           |          1 N           |      1 $\frac{m^4}{s^2}$       |                           |
-| Work ($W=F.d$)             |           1W           |      1 $\frac{m^5}{s^2}$       |                           |
-| Power ($P=F.v$)            |          1 J           |      1 $\frac{m^5}{s^3}$       |                           |
-| Pressure $(p=\frac{F}{A})$ | 1 Pa $[\frac{N}{m^2}]$ |      1 $\frac{m^2}{s^2}$       |                           |
-| Voltage                    |          1 V           |      1 $(\frac{1}{k_e})m$      |                           |
-| Electric Field E           |    1 $\frac{V}{m}$     |      1 $(\frac{1}{k_e})$       | in fact $\frac{s^2}{m^2}$ |
-| Current                    |          1 A           |       1 $\frac{m^2}{s}$        |                           |
-| Resistance                 |       1 $\Omega$       |  $(\frac{1}{k_e})\frac{s}{m}$  |                           |
-| Capacitance                |          1 F           |           1 $(k_e)m$           |                           |
-| Inductance                 |          1 H           | $(\frac{1}{k_e})\frac{s^2}{m}$ |                           |
-| Magnetic field H           |    1 $\frac{A}{m}$     |        1 $\frac{m}{s}$         |                           |
+| description                |        SI-unit         |            ms-unit             | remarks                      |
+| -------------------------- | :--------------------: | :----------------------------: | ---------------------------- |
+| Force  ($F=m.a$)           |          1 N           |      1 $\frac{m^4}{s^2}$       | volume depends on the matter |
+| Work ($W=F.d$)             |          1 J           |      1 $\frac{m^5}{s^2}$       |                              |
+| Power ($P=F.v$)            |          1 W           |      1 $\frac{m^5}{s^3}$       |                              |
+| Pressure $(p=\frac{F}{A})$ | 1 Pa $[\frac{N}{m^2}]$ |      1 $\frac{m^2}{s^2}$       |                              |
+| Voltage                    |          1 V           |      1 $(\frac{1}{k_e})m$      |                              |
+| Electric Field E           |    1 $\frac{V}{m}$     |      1 $(\frac{1}{k_e})$       | in fact $\frac{s^2}{m^2}$    |
+| Current                    |          1 A           |       1 $\frac{m^2}{s}$        |                              |
+| Resistance                 |       1 $\Omega$       |  $(\frac{1}{k_e})\frac{s}{m}$  |                              |
+| Capacitance                |          1 F           |           1 $(k_e)m$           |                              |
+| Inductance                 |          1 H           | $(\frac{1}{k_e})\frac{s^2}{m}$ |                              |
+| Magnetic field H           |    1 $\frac{A}{m}$     |        1 $\frac{m}{s}$         |                              |
 
 
 It can be noticed that most of the electric units somehow are related to the factor $k_e$. When used only in electrical conditions, this factor somehow is anhillated. This will be explained with some examples. The exception to this is the definition of the current.
@@ -116,29 +118,35 @@ The units for capacitance and resistance make sense:
 >
 > $Q=V.C \mapsto [m^2]$
 >
-> $P=U.I \mapsto [\frac{s}{m}]$  **this is not expected**, should be $[\frac {m^5}{s^2}]$ 
-
-Definition of the Ampere:
-
-The ampere is that constant current which, if maintained in two straight parallel conductors of infinite length, of negligible circular cross-section, and placed one meter apart in vacuum, would produce between these conductors a force equal to 2×10−7 newton per meter of length.
-
-![220px-Ampere-def-en.svg](.\images\220px-Ampere-def-en.svg.png)
-
-$\frac{F}{m} = \mu_0\frac{I.I}{r}$
-
-This definition is ambiguous because one of the current carrying conductors act as the originator of the magnetic field, and the other conductor acts for the current in the magnetic field. But the current in the second wire will also produce a magnetic field which will have its influence on the first wire. 
-
-Amperes Law:
-$B=\frac{\mu_0.I}{2.pi.r}​$ with  $\mu_0 = 4.\pi.10^{-7}​$
+> $P=U.I \mapsto [\frac{m^3}{s}]$  **this is not expected**, should be $[\frac {m^5}{s^3}]$ 
 
 
 
-together with:
-
-$F=B.\Delta L.I$
+A solution to this could be a unit offset, for example multiplying all units with $k_e$ can solve this imbalance in units. 
 
 
-$B=\frac{\mu_0.I}{2.pi.r}$
+
+
+
+Are there ambiguities in the definition of charges? Let start with Coulombs Law.
+$$
+F=k_e\frac{Q^2}{r^2} => \frac{m^2}{s^2}.\frac{m^4}{m^2} = \frac{m^4}{s^2}
+$$
+This gives the right units expressed in meter and seconds, charge $Q$ is expressed in $[m^2]$let us assume this is correct.
+$$
+I=\frac{Q}{t} => \frac{m^2}{s}
+$$
+
+
+
+
+
+
+
+
+
+
+
 
 
 
