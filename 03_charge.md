@@ -53,7 +53,7 @@ The critical radius $r_0$ is more than $10000$ times bigger than the accepted ra
 
 The figure shows a charge of $q = 8.01e^{-20} [m^2]$ as the blue dot at position (0,0), this charge moves upwards at the speed of light. From the point of view of the charge, the ether is approaching at the speed of light downwards, the red arrows indicate the speed of the ether flow when the charge consumes an amount of ether defined by $(c.q) [\frac{m^3}{s}]$. 
 
-![one charge](./images/one_charge.png)
+![one charge](./assets/one_charge.png)
 
 There is one point behind the moving charge, where the ether will be stationary with respect to the charge, this point lies at the distance $r_0$. 
 
@@ -63,7 +63,7 @@ Charges do not have mass as we know it, the direction of velocity is **only** co
 
 ### Properties
 
-![flow2sys_calc](.\images\flow2sys_calc.svg)
+![flow2sys_calc](./assets/flow2sys_calc.svg)
 
 ### Single charge moving at the speed of light
 
@@ -118,7 +118,7 @@ A charge will consume a certain amount of ether, this amount is a constant and f
 
  charge consumes ether in all directions, tend to go to the highest ether density.
 
-![vectors](./images/vectors.png)
+![vectors](./assets/vectors.png)
 
 definitions:
 

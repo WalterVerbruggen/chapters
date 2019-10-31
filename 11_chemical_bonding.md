@@ -12,7 +12,7 @@ The number of protons  is equal to the atomic number (A), the number of neutrons
 >
 > $n_{neutron} = m_{atom}-n_{proton}$
 
-![radius](.\images\radius_vs_zero.png)
+![radius](./assets/radius_vs_zero.png)
 
 The blue line indicates the atomic empirically measured radius for each element. The 
 

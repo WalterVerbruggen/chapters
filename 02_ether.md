@@ -10,7 +10,7 @@ When projecting this to the dimensions of an atom, suddenly perpetual motion **i
 
 
 
-![Bohr model](./images/Atome_bohr_couches_electroniques_KLM.svg)
+![Bohr model](./assets/Atome_bohr_couches_electroniques_KLM.svg)
 
 All matter is made up of **atoms** and **molecules** that are constantly moving. When heat is added to a substance, the molecules and atoms vibrate faster. As atoms vibrate faster, the space between atoms increases. The motion and spacing of the particles determines the state of matter of the substance. The end result of increased molecular motion is that the object expands and takes up more space.
 
@@ -77,7 +77,7 @@ The term $\frac{c.q}{r}$ points to a ratio between the speed of light c and a po
 
 
 
-![current](./images/current.svg)
+![current](assets/current.svg)
 
 
 

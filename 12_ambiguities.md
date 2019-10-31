@@ -4,7 +4,7 @@ Definition of the Ampere:
 
 The ampere is that constant current which, if maintained in two straight parallel conductors of infinite length, of negligible circular cross-section, and placed one meter apart in vacuum, would produce between these conductors a force equal to 2×10−7 newton per meter of length. 
 
-![220px-Ampere-def-en.svg](.\images\220px-Ampere-def-en.svg.png)
+![220px-Ampere-def-en.svg](./assets/220px-Ampere-def-en.svg.png)
 
 $\frac{F}{m} = \mu_0\frac{I.I}{r}$
 
