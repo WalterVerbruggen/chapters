@@ -41,6 +41,31 @@ This is totally in contrary to the currently accepted scientific approach, and t
 > A combination of lasers and magnets will be used to chill and slow a cloud of atoms to just a fraction above absolute zero, also known as zero Kelvin (**-273.15 Celsius** or **-459.67 Fahrenheit**). Absolute zero is the coldest temperature in the Universe - and impossible to achieve, because at that point, atoms stop moving.
 
 
+
+
+
+
+
+## Heat transfer
+
+Convection or by contact, 
+
+
+
+## Friction heat
+
+How can this be explained?
+
+
+
+
+
+
+
+
+
+
+
 ## Bose-Einstein condensate
 
 Explanation from the point of the Higgs-Boson condensate. 
@@ -57,6 +82,12 @@ Highest energy state at 0K
 
 
 # Gravity as a measure for consumption
+
+
+
+
+
+
 
 
 

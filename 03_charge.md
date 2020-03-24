@@ -128,6 +128,6 @@ definitions:
 
 
 
-`*is light nothing more than a movement of charge?* => no because the netto charge is not 0. `
+*is light nothing more than a movement of charge?* => no because the net charge is not 0. 
 
 
